@@ -1,28 +1,20 @@
-Absolutely, let's create a beautifully crafted GitHub repository description for your Age Calculator project:
 
----
 
-<div align="center">
-  <img src="https://github.com/githamdaan25/Age-Calculator/assets/85315584/504e1ade-443d-4a0b-aac5-b2804babf869
-" alt="Age Calculator Banner">
-</div>
-
-<h1 align="center">Age Calculator with Graceful UI</h1>
+<h1 align="center">Age Calculator with Graceful UI
+</h1>
 
 <p align="center">
   🌟 Experience the Art of Age Calculation with Elegance 🌟
 </p>
 
-<div align="center">
-  <a href="link_to_live_demo">Live Demo</a> | <a href="link_to_license">MIT License</a>
-</div>
-
-<br>
-
 
 ## 🎨 A Symphony of Design and Functionality
 
 Welcome to the Age Calculator repository! Indulge in the enchanting world of age calculation with a touch of aesthetic marvel. Crafted with a perfect fusion of HTML, CSS, and JavaScript, this Age Calculator not only yields precise age results but also treats your senses to a delightful spectrum of gradient colors.
+
+
+
+![image](https://github.com/githamdaan25/Age-Calculator/assets/85315584/29590dee-4e21-4f3f-a751-0aca9f617b17)
 
 ### 🌈 Features That Captivate:
 
