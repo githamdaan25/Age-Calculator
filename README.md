@@ -3,7 +3,8 @@ Absolutely, let's create a beautifully crafted GitHub repository description for
 ---
 
 <div align="center">
-  <img src="repository_banner_image_url" alt="Age Calculator Banner">
+  <img src="https://github.com/githamdaan25/Age-Calculator/assets/85315584/504e1ade-443d-4a0b-aac5-b2804babf869
+" alt="Age Calculator Banner">
 </div>
 
 <h1 align="center">Age Calculator with Graceful UI</h1>
@@ -18,10 +19,6 @@ Absolutely, let's create a beautifully crafted GitHub repository description for
 
 <br>
 
-<div align="center">
-![image](https://github.com/githamdaan25/Age-Calculator/assets/85315584/d0877374-669c-4d2c-8866-6b2f3c3079f8)
-
-</div>
 
 ## 🎨 A Symphony of Design and Functionality
 
@@ -55,17 +52,6 @@ Welcome to the Age Calculator repository! Indulge in the enchanting world of age
 
 Contributions, in all their forms, are graciously welcomed. Whether you seek to refine the code's cadence, amplify the allure of the UI, or introduce novel features, take center stage by forking this repository and elegantly submitting your pull requests.
 
-## 🌄 Visual Symphony
 
-![Screenshot 1](screenshot1_url)
-![Screenshot 2](screenshot2_url)
 
-## 📜 License
 
-This masterpiece is safeguarded under the [MIT License](link_to_license). Feel free to embrace, customize, and bestow it upon others, all in accordance with the license's harmonious verse.
-
-Experience age calculation like never before. Elevate your journey through time with the Age Calculator's sublime blend of functionality and elegance.
-
----
-
-Replace placeholders with actual links, screenshot URLs, and any other relevant content to create an exquisite README for your repository.
