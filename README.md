@@ -19,7 +19,8 @@ Absolutely, let's create a beautifully crafted GitHub repository description for
 <br>
 
 <div align="center">
-  <img src="screenshot_url" alt="Age Calculator Screenshot">
+  <img src="![image](https://github.com/githamdaan25/Age-Calculator/assets/85315584/d0877374-669c-4d2c-8866-6b2f3c3079f8)
+" alt=" Age Calculator Screenshot">
 </div>
 
 ## 🎨 A Symphony of Design and Functionality
